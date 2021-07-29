@@ -1,0 +1,27 @@
+{
+  "login_corr": {
+    "email": "awais@customer.dt",
+    "password": "Test123$"
+  },
+  "login_incorr":{
+    "email": "awais@customer.dt",
+    "password": "Test1234$"
+  },
+  "translator":{
+    "email": "awais@translator.dt",
+    "password": "Test123$"
+  },
+  "error_message": "The user credentials were incorrect.",
+  "bookerInfo":{
+    "bookerName": "Awais",
+    "staffName": "test_staff",
+    "bookingRef": "Test_ref",
+    "bookingNotes": "This is test note",
+    "fax": "5212345",
+    "address": "Centralplan 15, 111 20 Stockholm, Sweden",
+    "addressDetail": "This is a test input for address instructions"
+  }
+
+
+
+}
